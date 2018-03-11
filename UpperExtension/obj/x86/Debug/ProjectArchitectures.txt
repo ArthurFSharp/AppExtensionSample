@@ -1,0 +1,1 @@
+C:\Users\arthu\source\repos\UWPExtensionSample\UpperExtension\UpperExtension.csproj;x86

@@ -1,0 +1,1 @@
+C:\Users\arthu\source\repos\UWPExtensionSample\StringManipulationApp\StringManipulationApp.csproj;x86

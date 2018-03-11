@@ -1,0 +1,1 @@
+c:\users\arthu\source\repos\UWPExtensionSample\ReverseExtension\ReverseExtension.csproj;x86
